@@ -3,3 +3,4 @@
 *.exe
 *./output
 *.gitignore
+*.json
