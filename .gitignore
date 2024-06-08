@@ -1,5 +1,5 @@
 *.bin
 *.vscode
 *.exe
-./output
+*./output
 *.gitignore
