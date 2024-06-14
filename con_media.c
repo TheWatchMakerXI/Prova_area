@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Definizione di PI approssimato
-#define PI 3.14159265358979323846
+#define PI 3.14
 
 // Funzione per calcolare la radice quadrata approssimata usando il metodo di Newton
 double sqrt_approx(double number) {
